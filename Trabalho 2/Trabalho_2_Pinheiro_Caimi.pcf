@@ -1,0 +1,15 @@
+version,0,0,0:0.9.2
+scale,0,0,0:1.100000
+position,600,100,974:1039
+boardp,-8,-8,1936:1048
+spare_on,0,0,0:1
+osc_on,0,0,0:0
+useAlias,0,0,0:0
+debug,1,1,0:
+osc_cfg,29,308,0:200.000000,-50.000000,1,1,2.500000,1,2,5,7,0
+osc_ch1,0,0,0:2.000000,0.000000,1,#FF0000,0,6  RB0
+osc_ch2,0,0,0:2.000000,0.000000,0,#00FF00,0,7  RB1
+Text Box,24,17,0:12,5,4,https://lcgamboa.github.io/picsimlab_examples/board_McLab1.html#board_McLab1_PIC16F628A_test_b1%Examplesource info
+LCD hd44780,132,109,0:8,9,0,0,0,0,10,11,12,13,5,1
+LEDs,614,108,0:17,18,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,8
+Push Buttons,615,219,0:6,7,0,0,0,0,0,0,0,0,8
